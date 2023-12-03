@@ -22,7 +22,7 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather canvas {
+.Weather .canvas {
   height: 64px;
   margin-top: 5px;
   width: 64px;
